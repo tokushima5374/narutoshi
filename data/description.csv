@@ -1,5 +1,6 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やせないごみ,,,,#733b96
+危険ごみ・有害ごみ,,,,#77ae1f
+燃やせるごみ,,,,#ea3b13
+缶類,,,,#2dc7aa
+プラスチック製容器包装類,,,,#2dc7cc
